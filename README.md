@@ -70,7 +70,7 @@ railcar-turnover-analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/railcar-turnover-analyzer.git
+git clone https://github.com/eldarmmm/railcar-turnover-analyzer.git
 cd railcar-turnover-analyzer
 ```
 
